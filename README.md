@@ -3,6 +3,8 @@
 ## Requisitos para execução
 
 - Banco de dados MongoDB rodando na porta 27017
+- Ao baixar o código, executar o comando "yarn" para download das dependências
+- Executar o comando "yarn dev" para subir a API
 - Executar as requisições na porta 3000
 
 ## Rotas
